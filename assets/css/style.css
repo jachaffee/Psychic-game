@@ -1,0 +1,21 @@
+body {
+	background-color: #7216a8;
+}
+
+h1 {
+	text-align: center;
+	font-size: 96px;
+	color: white;
+	font-family: 'Rye', cursive;
+}
+
+p {
+	text-align: center;
+	font-size: 32px;
+	color: white;
+	font-family: font-family: 'Acme', sans-serif;
+}
+
+#fortune-teller {
+	margin-left: 520px;
+}
