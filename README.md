@@ -6,6 +6,6 @@
 
 ## Game Play Examples
 
-! [ Start game screen ] ( /assets/images/Start_Game.png )
+![ Start game screen ]( /assets/images/Start_Game.png )
 
-! [ Example of game play with user stats displayed ] ( /assets/images/Game_Play.png)
+![ Example of game play with user stats displayed ]( /assets/images/Game_Play.png)
